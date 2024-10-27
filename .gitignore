@@ -9,3 +9,5 @@ minio_data/**
 !minio_data/.gitkeep
 .idea*
 web/index.html
+.DS_Store
+/qgis_projects/data
